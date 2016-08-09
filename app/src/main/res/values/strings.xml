@@ -4,5 +4,8 @@
     <string name="app_name">Sunshine</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="current_temp">21&#xb0;</string>
+    <string name="minimum_temperature">8&#xb0;</string>
+    <string name="cloudy">Cloudy</string>
 
 </resources>
