@@ -7,5 +7,6 @@
     <string name="current_temp">21&#xb0;</string>
     <string name="minimum_temperature">8&#xb0;</string>
     <string name="cloudy">Cloudy</string>
+    <string name="refresh" translatable="false">Refresh</string>
 
 </resources>
